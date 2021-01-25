@@ -1,0 +1,11 @@
+.duedate {
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.duedate__title {
+  font-size: 18px;
+  font-weight: normal;
+  margin-right: 20px;
+}
